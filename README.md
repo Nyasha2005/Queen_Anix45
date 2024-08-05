@@ -1,4 +1,4 @@
-꧁ঔৣ✞  Raiden  ☬ঔৣ꧂
+<h1>꧁ঔৣ✞  Raiden  ☬ঔৣ꧂</h1>
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <p align="center">
@@ -81,8 +81,7 @@
 ## ```Connect With Me```<img src="https://telegra.ph/file/1d251d43f08d5fe166c04.jpg" width ="80"></h1> 
  <br> 
 <p align="center">
-<a href="https://wa.me/263718228938"><img src="https://telegra.ph/file/abe81bf845e36cb305582.jpg/>
-<a href="https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/263718228938">href="https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://t.me/deecee_x"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /><br>
 <p align="center">
 <img alt="Development" width="250" src="https://telegra.ph/file/1d251d43f08d5fe166c04.jpg?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>

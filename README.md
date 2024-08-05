@@ -1,8 +1,8 @@
-# ☆RAIDEN☆○MD
+꧁ঔৣ✞  Raiden  ☬ঔৣ꧂
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ RAIDEN+★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+CyberCoder+Codex;RELEASED+DATE+22%2F6%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•꧁༒•  Raiden  •༒꧂+•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+CyberCoder+Codex;RELEASED+DATE+5%2F8%2F2024." alt="Typing SVG" /></a>
  </p>
 <p align="center">
 <img src="https://telegra.ph/file/abe81bf845e36cb305582.jpg"/> 
@@ -21,7 +21,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
- ## ☆☆☆RAIDEN Deployment Methods
+ ## ☆☆☆RAIDEN ☆☆☆Deployment Methods
 
 ### 1. FORK THIS REPO
 
@@ -78,14 +78,14 @@
     <h2 align="center"> ⚠️ NOTE  </h2>
 ## ☆☆☆RAIDEN☆☆☆ SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 
 
-## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
+## ```Connect With Me```<img src="https://telegra.ph/file/1d251d43f08d5fe166c04.jpg" width ="80"></h1> 
  <br> 
 <p align="center">
 <a href="https://wa.me/263718228938"><img src="https://telegra.ph/file/abe81bf845e36cb305582.jpg/>
 <a href="https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://t.me/deecee_x"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /><br>
 <p align="center">
-<img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
+<img alt="Development" width="250" src="https://telegra.ph/file/1d251d43f08d5fe166c04.jpg?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 # 
 
@@ -94,7 +94,7 @@
 
 * [🧑‍💻 Follow RAIDEN Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029Vag9O9iFnSzGDs2m2k0K)
 
-* [✅ Join Public Group❤️‍🔥](https://chat.whatsapp.com/LY5TvEijedWF7egLtXsStQ)
+* [💥Join Public Group❤️‍🔥](https://chat.whatsapp.com/LY5TvEijedWF7egLtXsStQ)
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
@@ -106,7 +106,9 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-## HELPERS = WASI,David Cee
+## HELPERS <br>
+WASI,<br>
+David Cee<br>
 
 ## Support
 

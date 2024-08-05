@@ -16,7 +16,6 @@ global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Harare";
 global.github = process.env.GITHUB || "https://github.com/DeeCeeXxx/Queen_Anita-V2";
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0";
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || proces.env.||"https://telegra.ph/file/bf5c42e4e89efb66a352b.jpg";
 global.devs = "https://t.me/deecee_x";
 global.sudo = process.env.SUDO || "";
 global.owner = process.env.OWNER_NUMBER || "263718228938";
